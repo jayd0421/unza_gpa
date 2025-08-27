@@ -1,0 +1,169 @@
+SN,program_id,program,year_id,year,course_id,course_code,course,course_credit,is_compulsory,comment
+1,6,NS,1,First,611,MAT 1100,Mathematical Methods,30,1,
+2,6,NS,1,First,612,PHY 1010,Introductory Physics,30,1,
+3,6,NS,1,First,613,BIO 1412,Cell Biology and Genetic,30,1,
+4,6,NS,1,First,614,CHE 1000,Introduction to Chemistry,15,1,
+5,6,NS,1,First,615,BIO1012,,15,0,
+1,7,BEng,2,Second,721,CEE 2219,Statics and Introduction to Mechanics of Materials,30,1,
+2,7,BEng,2,Second,722,EEE 2019,Principles of Electrical and Electronics Engineering,30,1,
+3,7,BEng,2,Second,723,ENG 2129,Engineering Communication,30,1,
+4,7,BEng,2,Second,724,ENG 2139,Introduction to Information Technology,30,1,
+5,7,BEng,2,Second,725,ENG 2159,Engineering Workshop Technology,30,1,
+6,7,BEng,2,Second,726,MAT 2110,Engineering Mathematics I,30,1,
+7,7,BEng,2,Second,727,MEC 2009,Engineering Drawing I,30,1,
+8,7,BEng,2,Second,728,MEC 2309,Properties of engineering Materials I,30,1,
+1,1,Agricultural,3,Third,131,AGG 3811,Rural Sociology (formerly called Rural Sociology and Extension),,1,
+2,1,Agricultural,3,Third,132,CEE 3311,Fluid Mechanics I,,1,
+3,1,Agricultural,3,Third,133,AGA 3335,Fundamentals of Animal Production (formerly called Animal Production for Engineers),,1,
+4,1,Agricultural,3,Third,134,MEC 3401,Thermodynamics I,,1,
+5,1,Agricultural,3,Third,135,MAT 3110,Engineering Mathematics II,,1,
+6,1,Agricultural,3,Third,136,MEC 3352,Strength of Materials I,,1,
+7,1,Agricultural,3,Third,137,AGC 3135,Fundamentals of Field Crop Production (formerly called Crop Production for Engineers),,1,
+8,1,Agricultural,3,Third,138,AEN 3412,Soil and Water Conservation Engineering,,1,
+1,1,Agricultural,4,Fourth,141,CEE 4311,Hydrology,,1,
+2,1,Agricultural,4,Fourth,142,AEN 4311,Farm Power,,1,
+3,1,Agricultural,4,Fourth,143,GEE 4812,Introduction to Geomatics,,1,
+4,1,Agricultural,4,Fourth,144,MAT 4119,Engineering Mathematics III,,1,
+5,1,Agricultural,4,Fourth,145,AEN 4512,Food Process Engineering 25,,1,
+6,1,Agricultural,4,Fourth,146,ENG 4129,Engineering Management & Entrepreneurship,,1,
+7,1,Agricultural,4,Fourth,147,AEN 4112,Agricultural Machinery Design,,1,
+8,1,Agricultural,4,Fourth,148,AEN 4612,Instrumentation and Process Control,,1,
+9,1,Agricultural,4,Fourth,149,ENG 4143,Industrial Training I,,1,
+1,1,Agricultural,5,Fifth,151,AEN 5211,Agricultural Structures and Infrastructures,,1,
+2,1,Agricultural,5,Fifth,152,AEN 5421,Irrigation and Drainage Engineering,,1,
+3,1,Agricultural,5,Fifth,153,AEN 5321,Renewable Energy Sources,,1,
+4,1,Agricultural,5,Fifth,154,AEN 5714,Project,,1,
+5,1,Agricultural,5,Fifth,155,AEN 5132,Agricultural Mechanization,,1,
+6,1,Agricultural,5,Fifth,156,ENG 5129,Engineering Management & Society,,1,
+7,1,Agricultural,5,Fifth,157,ENG 5143,Industrial Training II,,1,
+8,1,Agricultural,5,Fifth,158,CEE 4412,Environmental Engineering,,0,
+9,1,Agricultural,5,Fifth,159,AEN 5122,Soil Dynamics and Tillage,,0,
+10,1,Agricultural,5,Fifth,1510,AEN 5222,Theory of Structures and Structural Design,,0,
+11,1,Agricultural,5,Fifth,1511,AEN 5522,Post-Harvest Technology,,0,
+1,2,Civil & Environmental,3,Third,231,CEE 3111,Civil Engineering Materials and Construction Practices,,1,
+2,2,Civil & Environmental,3,Third,232,CEE 3211,Mechanics of Materials,,1,
+3,2,Civil & Environmental,3,Third,233,GGY 3051,Engineering Geology,,1,
+4,2,Civil & Environmental,3,Third,234,GEE 3522,Land Management II,,1,
+5,2,Civil & Environmental,3,Third,235,CEE 3311,Fluid Mechanics,,1,
+6,2,Civil & Environmental,3,Third,236,MAT 3110,Engineering Mathematics II,,1,
+7,2,Civil & Environmental,3,Third,237,CEE 3112,Civil Engineering Drawing,,1,
+8,2,Civil & Environmental,3,Third,238,CEE 3222,Theory of Structures,,1,
+1,2,Civil & Environmental,4,Fourth,241,CEE 4211,Design of Masonry & Timber Structures,,1,
+2,2,Civil & Environmental,4,Fourth,242,CEE 4311,Hydrology,,1,
+3,2,Civil & Environmental,4,Fourth,243,GEE 4812,Principles of Surveying,,1,
+4,2,Civil & Environmental,4,Fourth,244,MAT 4119,Engineering Mathematics III,,1,
+5,2,Civil & Environmental,4,Fourth,245,CEE 4612,Highway Engineering,,1,
+6,2,Civil & Environmental,4,Fourth,246,CEE 4412,Environmental Engineering I,,1,
+7,2,Civil & Environmental,4,Fourth,247,ENG 4129,"Engineering, Management and Entrepreneurship",,1,
+8,2,Civil & Environmental,4,Fourth,248,ENG 4143,Industrial Training I,,1,
+1,2,Civil & Environmental,5,Fifth,251,CEE 5714,Project,,1,
+2,2,Civil & Environmental,5,Fifth,252,CEE 5311,Water Resources Management and Hydraulic Structures,,1,
+3,2,Civil & Environmental,5,Fifth,253,CEE 5111,Construction Management,,1,
+4,2,Civil & Environmental,5,Fifth,254,CEE 5222,Design of Steel Structures,,1,
+5,2,Civil & Environmental,5,Fifth,255,CEE 5714,Project,,1,
+6,2,Civil & Environmental,5,Fifth,256,ENG 5129,"Engineering, Management and Society",,1,
+7,2,Civil & Environmental,5,Fifth,257,ENG 5143,Industrial Training II,,1,
+8,2,Civil & Environmental,5,Fifth,258,CEE 5612,Transport Planning and Traffic Engineering,,0,
+9,2,Civil & Environmental,5,Fifth,259,CEE 5122,Contract Management,,0,
+10,2,Civil & Environmental,5,Fifth,2510,CEE 5232,Structural Dynamics,,0,
+11,2,Civil & Environmental,5,Fifth,2511,CEE 5412,Environmental Engineering II,,0,
+12,2,Civil & Environmental,5,Fifth,2512,CEE 5132,Rural and Urban Planning,,0,
+13,2,Civil & Environmental,5,Fifth,2513,CEE 5242,Bridge Engineering,,0,
+14,2,Civil & Environmental,5,Fifth,2514,CEE 5332,Integrated Water Resources Management,,0,
+1,3,Electrical & Electronics,3,Third,331,EEE 3112,Electrical Engineering Practice,,1,
+2,3,Electrical & Electronics,3,Third,332,EEE 3121,Signals and Systems,,1,
+3,3,Electrical & Electronics,3,Third,333,EEE 3131,Digital Electronics,,1,
+4,3,Electrical & Electronics,3,Third,334,EEE 3132,Computer Engineering,,1,
+5,3,Electrical & Electronics,3,Third,335,EEE 3352,Electro Mechanics and Machines,,1,
+6,3,Electrical & Electronics,3,Third,336,EEE 3571,Electronic Engineering I,,1,
+7,3,Electrical & Electronics,3,Third,337,ENG 3165,Fluid Mechanics & Thermodynamics,,1,
+8,3,Electrical & Electronics,3,Third,338,MAT 3110,Engineering Mathematics II,,1,
+1,3,Electrical & Electronics,4,Fourth,341,EEE 4021,Engineering Electromagnetics,,1,EMP
+2,3,Electrical & Electronics,4,Fourth,342,EEE 4221,Digital Signal Processing,,1,EMP
+3,3,Electrical & Electronics,4,Fourth,343,EEE 4242,Electrical Instrumentation,,1,EMP
+4,3,Electrical & Electronics,4,Fourth,344,EEE 4352,Electrical Machines,,1,EMP
+5,3,Electrical & Electronics,4,Fourth,345,EEE 4362,Electrical Power Systems I,,1,EMP
+6,3,Electrical & Electronics,4,Fourth,346,EEE 4571,Electronic Engineering II,,1,EMP
+7,3,Electrical & Electronics,4,Fourth,347,EEE 4135,Microcontroller Technology and Embedded Systems,,1,EMP
+8,3,Electrical & Electronics,4,Fourth,348,ENG 4129,Engineering Management & Entrepreneurship,,1,EMP
+9,3,Electrical & Electronics,4,Fourth,349,ENG 4143,Industrial Training I,,1,EMP
+10,3,Electrical & Electronics,4,Fourth,3410,MAT 4119,Engineering Mathematics III,,1,EMP
+11,3,Electrical & Electronics,4,Fourth,3411,EEE 4021,Engineering Electromagnetics,,1,ET
+12,3,Electrical & Electronics,4,Fourth,3412,EEE 4221,Digital Signal Processing,,1,ET
+13,3,Electrical & Electronics,4,Fourth,3413,EEE 4242,Electrical Instrumentation,,1,ET
+14,3,Electrical & Electronics,4,Fourth,3414,EEE 4670,Electronic Engineering III,,1,ET
+15,3,Electrical & Electronics,4,Fourth,3415,EEE 4682,Communications Principles,,1,ET
+16,3,Electrical & Electronics,4,Fourth,3416,EEE 4135,Microcontroller Technology and Embedded Systems,,1,ET
+17,3,Electrical & Electronics,4,Fourth,3417,ENG 4129,Engineering Management & Entrepreneurship,,1,ET
+18,3,Electrical & Electronics,4,Fourth,3418,ENG 4143,Industrial Training I,,1,ET
+19,3,Electrical & Electronics,4,Fourth,3419,MAT 4119,Engineering Mathematics III,,1,ET
+1,3,Electrical & Electronics,5,Fifth,351,EEE 5014,Project,,1,EMP
+2,3,Electrical & Electronics,5,Fifth,352,EEE 5240,Dynamic Systems and Control Engineering,,1,EMP
+3,3,Electrical & Electronics,5,Fifth,353,EEE 5351,Advanced Electrical Machines,,1,EMP
+4,3,Electrical & Electronics,5,Fifth,354,EEE 5451,Power Electronics,,1,EMP
+5,3,Electrical & Electronics,5,Fifth,355,EEE 5362,Electrical Power Systems II,,1,EMP
+6,3,Electrical & Electronics,5,Fifth,356,ENG 5129,Engineering Management & Society,,1,EMP
+7,3,Electrical & Electronics,5,Fifth,357,ENG 5143,Industrial Training II,,1,EMP
+8,3,Electrical & Electronics,5,Fifth,358,EEE 5014,Project,,1,ET
+9,3,Electrical & Electronics,5,Fifth,359,EEE 5240,Dynamic Systems and Control Engineering,,1,ET
+10,3,Electrical & Electronics,5,Fifth,3510,EEE 5581,Communications Networks,,1,ET
+11,3,Electrical & Electronics,5,Fifth,3511,EEE 5681,Communication Theory,,1,ET
+12,3,Electrical & Electronics,5,Fifth,3512,EEE 5682,Communication Systems,,1,ET
+13,3,Electrical & Electronics,5,Fifth,3513,ENG 5129,Engineering Management & Society,,1,ET
+14,3,Electrical & Electronics,5,Fifth,3514,ENG 5143,Industrial Training II,,1,ET
+1,4,Geomatic,3,Third,431,MAT 3110,Engineering Mathematics II,,1,
+2,4,Geomatic,3,Third,432,GEE 3711,Surveying,,1,
+3,4,Geomatic,3,Third,433,GEE 3622,Principles of Data Acquisition and Processing,,1,
+4,4,Geomatic,3,Third,434,GEE 3222,Data Representation and Visualizations,,1,
+5,4,Geomatic,3,Third,435,GEE 3511,Land Management I,,1,
+6,4,Geomatic,3,Third,436,GEE 3522,Land Management II,,1,
+7,4,Geomatic,3,Third,437,CEE 3711,"Soil Science, Roads, Hydrology and Civil Engineering Drawing",,1,
+1,4,Geomatic,4,Fourth,441,MAT 4119,Engineering Mathematics III,,1,
+2,4,Geomatic,4,Fourth,442,CEE 4612,Highway Engineering,,1,
+3,4,Geomatic,4,Fourth,443,GEE 4411,Geodesy I,,1,
+4,4,Geomatic,4,Fourth,444,GEE 4311,Image Analysis,,1,
+5,4,Geomatic,4,Fourth,445,GEE 4122,Numerical Methods and Programming,,1,
+6,4,Geomatic,4,Fourth,446,GEE 4622,Spatial Modelling and Analysis,,1,
+7,4,Geomatic,4,Fourth,447,GEE 4712,Engineering Surveying,,1,
+8,4,Geomatic,4,Fourth,448,ENG 4129,"Engineering, Management and Entrepreneurship",,1,
+9,4,Geomatic,4,Fourth,449,ENG 4143,Industrial Training I,,1,
+1,4,Geomatic,5,Fifth,451,GEE 5411,Geodesy II,,1,
+2,4,Geomatic,5,Fifth,452,GEE 5610,Geographic Information Infrastructure,,1,
+3,4,Geomatic,5,Fifth,453,GEE 5804,Project,,1,
+4,4,Geomatic,5,Fifth,454,CEE 5111,Construction Management,,1,
+5,4,Geomatic,5,Fifth,455,GEE 5812,Integrated Mapping,,1,
+6,4,Geomatic,5,Fifth,456,ENG 5129,"Engineering, Management and Society",,1,
+7,4,Geomatic,5,Fifth,457,ENG 5143,Industrial Training II,,1,
+1,5,Mechanical,3,Third,531,MEC 3001,Mechanical Engineering Drawing II,,1,
+2,5,Mechanical,3,Third,532,MEC 3351,Strength of Materials I,,1,
+3,5,Mechanical,3,Third,533,MEC 3401,Thermodynamics I,,1,
+4,5,Mechanical,3,Third,534,CEE 3311,Fluid Mechanics I,,1,
+5,5,Mechanical,3,Third,535,MAT 3111,Engineering Mathematics II,,1,
+6,5,Mechanical,3,Third,536,MEC 3102,"Production Technology, Electricity & Electronics",,1,
+7,5,Mechanical,3,Third,537,MEC 3352,Strength of Materials II,,1,
+8,5,Mechanical,3,Third,538,MEC 3705,Dynamics,,1,
+9,5,Mechanical,3,Third,539,MAT 3112,Engineering Mathematics II,,1,
+1,5,Mechanical,4,Fourth,541,MEC 4105,Production Technology I,,1,
+2,5,Mechanical,4,Fourth,542,MEC 4301,Properties of Engineering Materials II,,1,
+3,5,Mechanical,4,Fourth,543,MEC 4601,Fluid Mechanics II,,1,
+4,5,Mechanical,4,Fourth,544,MAT 4111,Engineering Mathematics IV,,1,
+5,5,Mechanical,4,Fourth,545,MEC 4055,Machine Design I,,1,
+6,5,Mechanical,4,Fourth,546,MEC 4402,Thermodynamics II and Heat Engines,,1,
+7,5,Mechanical,4,Fourth,547,MEC 4702,Vibrations and Control Engineering I,,1,
+8,5,Mechanical,4,Fourth,548,ENG 4122,Engineering Management and Entrepreneurship,,1,
+9,5,Mechanical,4,Fourth,549,ENG 4143,Industrial Training I,,1,
+1,5,Mechanical,5,Fifth,551,MEC 5051,Machine Design II,,1,
+2,5,Mechanical,5,Fifth,552,MEC 5105,Production Technology & Process Engineering,,1,
+3,5,Mechanical,5,Fifth,553,MEC 5401,Heat Transfer,,1,
+4,5,Mechanical,5,Fifth,554,MEC 5904,Final Year Project,,1,
+5,5,Mechanical,5,Fifth,555,MEC 5205,Maintenance Engineering,,1,
+6,5,Mechanical,5,Fifth,556,ENG 5122,Engineering Management and Society,,1,
+7,5,Mechanical,5,Fifth,557,MEC 5904,Project,,1,
+8,5,Mechanical,5,Fifth,558,ENG 5143,Industrial Training II,,1,
+9,5,Mechanical,5,Fifth,559,MEC 5159,Manufacturing Systems Management,,0,
+10,5,Mechanical,5,Fifth,5510,MEC 5355,Advanced Strength of Materials,,0,
+11,5,Mechanical,5,Fifth,5511,MEC 5455,Alternative Energy Sources,,0,
+12,5,Mechanical,5,Fifth,5512,MEC 5465,Refrigeration and Air-conditioning,,0,
+13,5,Mechanical,5,Fifth,5513,MEC 5552,Environmental Engineering,,0,
+14,5,Mechanical,5,Fifth,5514,MEC 5702,Control Engineering II,,0,
+15,5,Mechanical,5,Fifth,5515,MEC 5855,Automobile Engineering,,0,
