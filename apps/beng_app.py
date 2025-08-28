@@ -197,7 +197,6 @@ def app():
                         label="First Year GPA",
                         value=years_gpa_dict['First'],
                     )
-                gpa_classification = beng_functions.gpa_classification(overall_gpa)
 
                 st.metric(
                     label="Second Year GPA",
