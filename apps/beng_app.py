@@ -185,9 +185,9 @@ def app():
                     if gpa_classification == "Distinction":
                         st.markdown(f":green-background[{gpa_classification}]")
                     elif gpa_classification == "Merit":
-                        st.markdown(f":yellow-background[{gpa_classification}]")
+                        st.markdown(f":green-background[{gpa_classification}]")
                     elif gpa_classification == "Credit":
-                        st.markdown(f":white-background[{gpa_classification}]")
+                        st.markdown(f":red-background[{gpa_classification}]")
                     elif gpa_classification == "Pass":
                         st.markdown(f":red-background[{gpa_classification}]")
 
