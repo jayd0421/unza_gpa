@@ -180,7 +180,7 @@ def app():
                 with st.container(border=True):
                     st.metric(
                         label="Overall GPA",
-                        value=overall_gpa,
+                        value=f"{round(overall_gpa,2)}",
                     )
                     if gpa_classification == "Distinction":
                         st.markdown(f":green-background[{gpa_classification}]")
@@ -192,28 +192,38 @@ def app():
                         st.markdown(f":red-background[{gpa_classification}]")
 
             with st.container(border=True):
+                st.write("GPA")
+                year_gpa_class = {
+                    'Second': beng_functions.gpa_classification(years_gpa_dict['Second']),
+                    'Third': beng_functions.gpa_classification(years_gpa_dict['Third']),
+                    'Fourth':beng_functions.gpa_classification(years_gpa_dict['Fourth']),
+                    'Fifth': beng_functions.gpa_classification(years_gpa_dict['Fifth'])
+                }
                 if include_first_year:
+                    year_gpa_class.update(
+                    {'First': beng_functions.gpa_classification(years_gpa_dict['First'])}
+                    )
                     st.metric(
-                        label="First Year GPA",
+                        label=f"1st Year - {year_gpa_class['First']}",
                         value=years_gpa_dict['First'],
                     )
 
                 st.metric(
-                    label="Second Year GPA",
+                    label=f"2nd Year - {year_gpa_class['Second']}",
                     value=years_gpa_dict['Second'],
                 )
 
                 st.metric(
-                    label="Third Year GPA",
+                    label=f"3rd Year - {year_gpa_class['Third']}",
                     value=years_gpa_dict['Third'],
                 )
 
                 st.metric(
-                    label="Fourth Year GPA",
+                    label=f"4th Year - {year_gpa_class['Fourth']}",
                     value=years_gpa_dict['Fourth'],
                 )
 
                 st.metric(
-                    label="Fifth Year GPA",
+                    label=f"5th Year - {year_gpa_class['Fifth']}",
                     value=years_gpa_dict['Fifth'],
                 )
