@@ -4,14 +4,14 @@ SN,program_id,program,year_id,year,course_id,course_code,course,course_credit,is
 3,6,NS,1,First,613,BIO 1412,Molecular Biology and Genetics,15,1,
 4,6,NS,1,First,614,CHE 1000,Introductory Chemistry,30,1,
 5,6,NS,1,First,615,BIO 1401,Cells and Biomolecules,15,1,
-1,7,BEng,2,Second,721,CEE 2219,Statics and Introduction to Mechanics of Materials,30,1,
-2,7,BEng,2,Second,722,EEE 2019,Principles of Electrical and Electronics Engineering,30,1,
-3,7,BEng,2,Second,723,ENG 2129,Engineering Communication,30,1,
-4,7,BEng,2,Second,724,ENG 2139,Introduction to Information Technology,30,1,
-5,7,BEng,2,Second,725,ENG 2159,Engineering Workshop Technology,30,1,
+1,7,BEng,2,Second,721,CEE 2219,Statics and Introduction to Mechanics of Materials,15,1,
+2,7,BEng,2,Second,722,EEE 2019,Principles of Electrical and Electronics Engineering,15,1,
+3,7,BEng,2,Second,723,ENG 2129,Engineering Communication,15,1,
+4,7,BEng,2,Second,724,ENG 2139,Introduction to Information Technology,15,1,
+5,7,BEng,2,Second,725,ENG 2159,Engineering Workshop Technology,15,1,
 6,7,BEng,2,Second,726,MAT 2110,Engineering Mathematics I,30,1,
-7,7,BEng,2,Second,727,MEC 2009,Engineering Drawing I,30,1,
-8,7,BEng,2,Second,728,MEC 2309,Properties of engineering Materials I,30,1,
+7,7,BEng,2,Second,727,MEC 2009,Engineering Drawing I,15,1,
+8,7,BEng,2,Second,728,MEC 2309,Properties of engineering Materials I,15,1,
 1,1,Agricultural,3,Third,131,AGG 3811,Rural Sociology (formerly called Rural Sociology and Extension),15,1,
 2,1,Agricultural,3,Third,132,CEE 3311,Fluid Mechanics I,15,1,
 3,1,Agricultural,3,Third,133,AGA 3335,Fundamentals of Animal Production (formerly called Animal Production for Engineers),15,1,
@@ -23,18 +23,18 @@ SN,program_id,program,year_id,year,course_id,course_code,course,course_credit,is
 1,1,Agricultural,4,Fourth,141,CEE 4311,Hydrology,15,1,
 2,1,Agricultural,4,Fourth,142,AEN 4311,Farm Power,15,1,
 3,1,Agricultural,4,Fourth,143,GEE 4812,Introduction to Geomatics,15,1,
-4,1,Agricultural,4,Fourth,144,MAT 4119,Engineering Mathematics III,30,1,
+4,1,Agricultural,4,Fourth,144,MAT 4119,Engineering Mathematics III,15,1,
 5,1,Agricultural,4,Fourth,145,AEN 4512,Food Process Engineering 25,15,1,
-6,1,Agricultural,4,Fourth,146,ENG 4129,Engineering Management & Entrepreneurship,30,1,
+6,1,Agricultural,4,Fourth,146,ENG 4129,Engineering Management & Entrepreneurship,15,1,
 7,1,Agricultural,4,Fourth,147,AEN 4112,Agricultural Machinery Design,15,1,
 8,1,Agricultural,4,Fourth,148,AEN 4612,Instrumentation and Process Control,15,1,
 9,1,Agricultural,4,Fourth,149,ENG 4143,Industrial Training I,15,1,
 1,1,Agricultural,5,Fifth,151,AEN 5211,Agricultural Structures and Infrastructures,15,1,
 2,1,Agricultural,5,Fifth,152,AEN 5421,Irrigation and Drainage Engineering,15,1,
 3,1,Agricultural,5,Fifth,153,AEN 5321,Renewable Energy Sources,15,1,
-4,1,Agricultural,5,Fifth,154,AEN 5714,Project,30,1,
+4,1,Agricultural,5,Fifth,154,AEN 5714,Project,15,1,
 5,1,Agricultural,5,Fifth,155,AEN 5132,Agricultural Mechanization,15,1,
-6,1,Agricultural,5,Fifth,156,ENG 5129,Engineering Management & Society,30,1,
+6,1,Agricultural,5,Fifth,156,ENG 5129,Engineering Management & Society,15,1,
 7,1,Agricultural,5,Fifth,157,ENG 5143,Industrial Training II,15,1,
 8,1,Agricultural,5,Fifth,158,CEE 4412,Environmental Engineering,15,0,
 9,1,Agricultural,5,Fifth,159,AEN 5122,Soil Dynamics and Tillage,15,0,
@@ -51,17 +51,17 @@ SN,program_id,program,year_id,year,course_id,course_code,course,course_credit,is
 1,2,Civil & Environmental,4,Fourth,241,CEE 4211,Design of Masonry & Timber Structures,15,1,
 2,2,Civil & Environmental,4,Fourth,242,CEE 4311,Hydrology,15,1,
 3,2,Civil & Environmental,4,Fourth,243,GEE 4812,Principles of Surveying,15,1,
-4,2,Civil & Environmental,4,Fourth,244,MAT 4119,Engineering Mathematics III,30,1,
+4,2,Civil & Environmental,4,Fourth,244,MAT 4119,Engineering Mathematics III,15,1,
 5,2,Civil & Environmental,4,Fourth,245,CEE 4612,Highway Engineering,15,1,
 6,2,Civil & Environmental,4,Fourth,246,CEE 4412,Environmental Engineering I,15,1,
-7,2,Civil & Environmental,4,Fourth,247,ENG 4129,"Engineering, Management and Entrepreneurship",30,1,
+7,2,Civil & Environmental,4,Fourth,247,ENG 4129,"Engineering, Management and Entrepreneurship",15,1,
 8,2,Civil & Environmental,4,Fourth,248,ENG 4143,Industrial Training I,15,1,
-1,2,Civil & Environmental,5,Fifth,251,CEE 5714,Project,30,1,
+1,2,Civil & Environmental,5,Fifth,251,CEE 5714,Project,15,1,
 2,2,Civil & Environmental,5,Fifth,252,CEE 5311,Water Resources Management and Hydraulic Structures,15,1,
 3,2,Civil & Environmental,5,Fifth,253,CEE 5111,Construction Management,15,1,
 4,2,Civil & Environmental,5,Fifth,254,CEE 5222,Design of Steel Structures,15,1,
-5,2,Civil & Environmental,5,Fifth,255,CEE 5714,Project,30,1,
-6,2,Civil & Environmental,5,Fifth,256,ENG 5129,"Engineering, Management and Society",30,1,
+5,2,Civil & Environmental,5,Fifth,255,CEE 5714,Project,15,1,
+6,2,Civil & Environmental,5,Fifth,256,ENG 5129,"Engineering, Management and Society",15,1,
 7,2,Civil & Environmental,5,Fifth,257,ENG 5143,Industrial Training II,15,1,
 8,2,Civil & Environmental,5,Fifth,258,CEE 5612,Transport Planning and Traffic Engineering,15,0,
 9,2,Civil & Environmental,5,Fifth,259,CEE 5122,Contract Management,15,0,
@@ -85,31 +85,31 @@ SN,program_id,program,year_id,year,course_id,course_code,course,course_credit,is
 5,3,Electrical & Electronics,4,Fourth,345,EEE 4362,Electrical Power Systems I,15,1,EMP
 6,3,Electrical & Electronics,4,Fourth,346,EEE 4571,Electronic Engineering II,15,1,EMP
 7,3,Electrical & Electronics,4,Fourth,347,EEE 4135,Microcontroller Technology and Embedded Systems,15,1,EMP
-8,3,Electrical & Electronics,4,Fourth,348,ENG 4129,Engineering Management & Entrepreneurship,30,1,EMP
+8,3,Electrical & Electronics,4,Fourth,348,ENG 4129,Engineering Management & Entrepreneurship,15,1,EMP
 9,3,Electrical & Electronics,4,Fourth,349,ENG 4143,Industrial Training I,15,1,EMP
-10,3,Electrical & Electronics,4,Fourth,3410,MAT 4119,Engineering Mathematics III,30,1,EMP
+10,3,Electrical & Electronics,4,Fourth,3410,MAT 4119,Engineering Mathematics III,15,1,EMP
 11,3,Electrical & Electronics,4,Fourth,3411,EEE 4021,Engineering Electromagnetics,15,1,ET
 12,3,Electrical & Electronics,4,Fourth,3412,EEE 4221,Digital Signal Processing,15,1,ET
 13,3,Electrical & Electronics,4,Fourth,3413,EEE 4242,Electrical Instrumentation,15,1,ET
-14,3,Electrical & Electronics,4,Fourth,3414,EEE 4670,Electronic Engineering III,15,1,ET
+14,3,Electrical & Electronics,4,Fourth,3414,EEE 4670,Electronic Engineering III,30,1,ET
 15,3,Electrical & Electronics,4,Fourth,3415,EEE 4682,Communications Principles,15,1,ET
 16,3,Electrical & Electronics,4,Fourth,3416,EEE 4135,Microcontroller Technology and Embedded Systems,15,1,ET
-17,3,Electrical & Electronics,4,Fourth,3417,ENG 4129,Engineering Management & Entrepreneurship,30,1,ET
+17,3,Electrical & Electronics,4,Fourth,3417,ENG 4129,Engineering Management & Entrepreneurship,15,1,ET
 18,3,Electrical & Electronics,4,Fourth,3418,ENG 4143,Industrial Training I,15,1,ET
-19,3,Electrical & Electronics,4,Fourth,3419,MAT 4119,Engineering Mathematics III,30,1,ET
-1,3,Electrical & Electronics,5,Fifth,351,EEE 5014,Project,30,1,EMP
-2,3,Electrical & Electronics,5,Fifth,352,EEE 5240,Dynamic Systems and Control Engineering,15,1,EMP
+19,3,Electrical & Electronics,4,Fourth,3419,MAT 4119,Engineering Mathematics III,15,1,ET
+1,3,Electrical & Electronics,5,Fifth,351,EEE 5014,Project,15,1,EMP
+2,3,Electrical & Electronics,5,Fifth,352,EEE 5240,Dynamic Systems and Control Engineering,30,1,EMP
 3,3,Electrical & Electronics,5,Fifth,353,EEE 5351,Advanced Electrical Machines,15,1,EMP
 4,3,Electrical & Electronics,5,Fifth,354,EEE 5451,Power Electronics,15,1,EMP
 5,3,Electrical & Electronics,5,Fifth,355,EEE 5362,Electrical Power Systems II,15,1,EMP
-6,3,Electrical & Electronics,5,Fifth,356,ENG 5129,Engineering Management & Society,30,1,EMP
+6,3,Electrical & Electronics,5,Fifth,356,ENG 5129,Engineering Management & Society,15,1,EMP
 7,3,Electrical & Electronics,5,Fifth,357,ENG 5143,Industrial Training II,15,1,EMP
-8,3,Electrical & Electronics,5,Fifth,358,EEE 5014,Project,30,1,ET
-9,3,Electrical & Electronics,5,Fifth,359,EEE 5240,Dynamic Systems and Control Engineering,15,1,ET
+8,3,Electrical & Electronics,5,Fifth,358,EEE 5014,Project,15,1,ET
+9,3,Electrical & Electronics,5,Fifth,359,EEE 5240,Dynamic Systems and Control Engineering,30,1,ET
 10,3,Electrical & Electronics,5,Fifth,3510,EEE 5581,Communications Networks,15,1,ET
 11,3,Electrical & Electronics,5,Fifth,3511,EEE 5681,Communication Theory,15,1,ET
 12,3,Electrical & Electronics,5,Fifth,3512,EEE 5682,Communication Systems,15,1,ET
-13,3,Electrical & Electronics,5,Fifth,3513,ENG 5129,Engineering Management & Society,30,1,ET
+13,3,Electrical & Electronics,5,Fifth,3513,ENG 5129,Engineering Management & Society,15,1,ET
 14,3,Electrical & Electronics,5,Fifth,3514,ENG 5143,Industrial Training II,15,1,ET
 1,4,Geomatic,3,Third,431,MAT 3110,Engineering Mathematics II,30,1,
 2,4,Geomatic,3,Third,432,GEE 3711,Surveying,15,1,
@@ -118,21 +118,21 @@ SN,program_id,program,year_id,year,course_id,course_code,course,course_credit,is
 5,4,Geomatic,3,Third,435,GEE 3511,Land Management I,15,1,
 6,4,Geomatic,3,Third,436,GEE 3522,Land Management II,15,1,
 7,4,Geomatic,3,Third,437,CEE 3711,"Soil Science, Roads, Hydrology and Civil Engineering Drawing",15,1,
-1,4,Geomatic,4,Fourth,441,MAT 4119,Engineering Mathematics III,30,1,
+1,4,Geomatic,4,Fourth,441,MAT 4119,Engineering Mathematics III,15,1,
 2,4,Geomatic,4,Fourth,442,CEE 4612,Highway Engineering,15,1,
 3,4,Geomatic,4,Fourth,443,GEE 4411,Geodesy I,15,1,
 4,4,Geomatic,4,Fourth,444,GEE 4311,Image Analysis,15,1,
 5,4,Geomatic,4,Fourth,445,GEE 4122,Numerical Methods and Programming,15,1,
 6,4,Geomatic,4,Fourth,446,GEE 4622,Spatial Modelling and Analysis,15,1,
 7,4,Geomatic,4,Fourth,447,GEE 4712,Engineering Surveying,15,1,
-8,4,Geomatic,4,Fourth,448,ENG 4129,"Engineering, Management and Entrepreneurship",30,1,
+8,4,Geomatic,4,Fourth,448,ENG 4129,"Engineering, Management and Entrepreneurship",15,1,
 9,4,Geomatic,4,Fourth,449,ENG 4143,Industrial Training I,15,1,
 1,4,Geomatic,5,Fifth,451,GEE 5411,Geodesy II,15,1,
 2,4,Geomatic,5,Fifth,452,GEE 5610,Geographic Information Infrastructure,30,1,
-3,4,Geomatic,5,Fifth,453,GEE 5804,Project,30,1,
+3,4,Geomatic,5,Fifth,453,GEE 5804,Project,15,1,
 4,4,Geomatic,5,Fifth,454,CEE 5111,Construction Management,15,1,
 5,4,Geomatic,5,Fifth,455,GEE 5812,Integrated Mapping,15,1,
-6,4,Geomatic,5,Fifth,456,ENG 5129,"Engineering, Management and Society",30,1,
+6,4,Geomatic,5,Fifth,456,ENG 5129,"Engineering, Management and Society",15,1,
 7,4,Geomatic,5,Fifth,457,ENG 5143,Industrial Training II,15,1,
 1,5,Mechanical,3,Third,531,MEC 3001,Mechanical Engineering Drawing II,15,1,
 2,5,Mechanical,3,Third,532,MEC 3351,Strength of Materials I,15,1,
@@ -146,19 +146,19 @@ SN,program_id,program,year_id,year,course_id,course_code,course,course_credit,is
 1,5,Mechanical,4,Fourth,541,MEC 4105,Production Technology I,15,1,
 2,5,Mechanical,4,Fourth,542,MEC 4301,Properties of Engineering Materials II,15,1,
 3,5,Mechanical,4,Fourth,543,MEC 4601,Fluid Mechanics II,15,1,
-4,5,Mechanical,4,Fourth,544,MAT 4119,Engineering Mathematics IV,30,1,
+4,5,Mechanical,4,Fourth,544,MAT 4119,Engineering Mathematics IV,15,1,
 5,5,Mechanical,4,Fourth,545,MEC 4055,Machine Design I,15,1,
 6,5,Mechanical,4,Fourth,546,MEC 4402,Thermodynamics II and Heat Engines,15,1,
 7,5,Mechanical,4,Fourth,547,MEC 4702,Vibrations and Control Engineering I,15,1,
-8,5,Mechanical,4,Fourth,548,ENG 4129,Engineering Management and Entrepreneurship,30,1,
+8,5,Mechanical,4,Fourth,548,ENG 4129,Engineering Management and Entrepreneurship,15,1,
 9,5,Mechanical,4,Fourth,549,ENG 4143,Industrial Training I,15,1,
 1,5,Mechanical,5,Fifth,551,MEC 5051,Machine Design II,15,1,
 2,5,Mechanical,5,Fifth,552,MEC 5105,Production Technology & Process Engineering,15,1,
 3,5,Mechanical,5,Fifth,553,MEC 5401,Heat Transfer,15,1,
-4,5,Mechanical,5,Fifth,554,MEC 5904,Final Year Project,30,1,
+4,5,Mechanical,5,Fifth,554,MEC 5904,Final Year Project,15,1,
 5,5,Mechanical,5,Fifth,555,MEC 5205,Maintenance Engineering,15,1,
-6,5,Mechanical,5,Fifth,556,ENG 5129,Engineering Management and Society,30,1,
-7,5,Mechanical,5,Fifth,557,MEC 5904,Project,30,1,
+6,5,Mechanical,5,Fifth,556,ENG 5129,Engineering Management and Society,15,1,
+7,5,Mechanical,5,Fifth,557,MEC 5904,Project,15,1,
 8,5,Mechanical,5,Fifth,558,ENG 5143,Industrial Training II,15,1,
 9,5,Mechanical,5,Fifth,559,MEC 5159,Manufacturing Systems Management,15,0,
 10,5,Mechanical,5,Fifth,5510,MEC 5355,Advanced Strength of Materials,15,0,
