@@ -154,5 +154,7 @@ def gpa_classification(overall_gpa):
         return "Merit"
     elif overall_gpa < 3.25 and overall_gpa >= 2.68:
         return "Credit"
+    elif overall_gpa > 2.68 and overall_gpa >= 0:
+        return "Credit"
     else:
-        return "Pass"
+        return ""
